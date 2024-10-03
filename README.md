@@ -1,0 +1,1 @@
+# This is our Movis Recommendation System Project on TMDB movies Datasets. And In this project I use NLP and its famous libraries(nltk,Spacy) and a famous technique that convert textual(sequential) data to vector data so that our machine/algorithms easily understood(TD-IDF,BOW and Word2vec)
